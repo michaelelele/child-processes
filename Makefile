@@ -30,4 +30,4 @@ clean:
 	rm -f *.o *- $(EXE1) $(EXE2) 
 
 package: 
-	zip -r Michael-McMahon-HW2.zip coordinator.c checker.c Makefile README.txt
+	zip -r child-process.zip coordinator.c checker.c Makefile README.txt
